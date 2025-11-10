@@ -1,3 +1,5 @@
-<?PHP echo("Ma super giga fonction"){
-    #ça décoiffe trop !
-};
+function MaSuperFonction(){
+    echo("ça décoiffe trop !");
+}
+
+MaSuperFonction();
